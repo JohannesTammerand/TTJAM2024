@@ -1,0 +1,4 @@
+repository "TalTech GameCamp 24@GameJamsYes@cloud"
+  path "/"
+    br "/main"
+    co "/main"
